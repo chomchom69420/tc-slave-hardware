@@ -191,8 +191,6 @@
 <wire x1="-27.6" y1="10" x2="-27.6" y2="129.2" width="0.1524" layer="20"/>
 <wire x1="-27.6" y1="129.2" x2="-249.4" y2="129.2" width="0.1524" layer="20"/>
 <wire x1="-249.4" y1="129.2" x2="-249.4" y2="10" width="0.1524" layer="20"/>
-<dimension x1="-249.4" y1="10" x2="-249.4" y2="129.2" x3="-256.3" y3="69.6" textsize="1.778" layer="1"/>
-<dimension x1="-249.4" y1="10" x2="-27.6" y2="10" x3="-138.5" y3="2.1" textsize="1.778" layer="1"/>
 <text x="-181.9" y="90.5" size="1" layer="25" rot="R45">GND</text>
 <text x="-179.3" y="90.5" size="1" layer="25" rot="R45">SR</text>
 <text x="-176.76" y="90.5" size="1" layer="25" rot="R45">SCL</text>
@@ -298,9 +296,7 @@ DIGIT 2</text>
 <text x="-35.52" y="90.6" size="1" layer="25" align="center">++</text>
 <text x="-35.52" y="78.2" size="1" layer="25" align="center">--</text>
 <text x="-236.52" y="89.1" size="1" layer="25" align="center-left">Traffic Controller - Slave v1.0
-Designed by:
-Soham Chakraborty
-Tanmoy Dutta</text>
+(c) and Mfgd by: Security Engineers</text>
 </plain>
 <libraries>
 <library name="OPL_Capacitor" urn="urn:adsk.eagle:library:8004261">
@@ -1743,8 +1739,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <elements>
 <element name="C2" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100pF" x="-58.19" y="78.86" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-319.81" y="-134.5" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-56.92" y="79.114" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-56.92" y="77.971" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-56.92" y="79.114" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-56.92" y="80.4475" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="C3" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0805" package3d_urn="urn:adsk.eagle:package:8004286/1" value="10uF" x="-94.78" y="67.2" smashed="yes" rot="R180">
@@ -1759,236 +1755,236 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="C5" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="1uF" x="-93.01" y="75.98" smashed="yes" rot="R270">
 <attribute name="MPN" value="CC0603KRX7R9BB102" x="-359.71" y="45.5" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-91.74" y="76.234" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-95.591" y="76.76" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-91.74" y="76.234" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-91.74" y="77.5675" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-69.46" y="72.71" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="192.16" y="291.15" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-70.73" y="72.456" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-71.03" y="73.499" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-70.73" y="72.456" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-71.0825" y="72.11" size="0.635" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="CB1" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-124.36" y="41.25" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-385.98" y="-182.27" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-123.09" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-123.09" y="40.361" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-123.09" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-123.09" y="42.8375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB10" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-138.33" y="41.25" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="106.78" y="155.55" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-139.6" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-139.6" y="42.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-139.6" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-139.6" y="39.6625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB11" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-34.29" y="41.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-287.02" y="16.25" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-33.02" y="41.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-33.02" y="40.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-33.02" y="41.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-33.02" y="43.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB12" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-38.1" y="41.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="207.01" y="161.03" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-39.37" y="41.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-39.37" y="42.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-39.37" y="41.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-39.37" y="40.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB13" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-152.5" y="40.92" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-397.61" y="-83.54" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-151.23" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-151.23" y="40.031" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-151.23" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-151.23" y="42.5075" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB14" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-156.31" y="40.92" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="88.8" y="170.46" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-157.58" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-157.58" y="41.809" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-157.58" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-157.58" y="39.3325" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB15" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-161.39" y="40.92" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-406.5" y="-93.7" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-160.12" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-160.12" y="40.031" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-160.12" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-160.12" y="42.5075" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB16" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-165.2" y="40.92" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="79.91" y="180.62" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-166.47" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-166.47" y="41.809" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-166.47" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-166.47" y="39.3325" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB17" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-170.28" y="40.92" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-415.39" y="-103.86" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-169.01" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-169.01" y="40.031" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-169.01" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-169.01" y="42.5075" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB18" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-174.09" y="40.92" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="71.02" y="190.78" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-175.36" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-175.36" y="41.809" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-175.36" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-175.36" y="39.3325" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB19" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-179.17" y="40.92" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-424.28" y="-114.02" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-177.9" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-177.9" y="40.031" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-177.9" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-177.9" y="42.5075" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB2" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-128.17" y="41.25" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="133.45" y="269.85" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-129.44" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-129.44" y="42.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-129.44" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-129.44" y="39.6625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB20" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-182.98" y="40.92" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="62.13" y="200.94" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-184.25" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-184.25" y="41.809" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-184.25" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-184.25" y="39.3325" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB22" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-191.87" y="40.92" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="53.24" y="211.1" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-193.14" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-193.14" y="41.809" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-193.14" y="40.666" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-193.14" y="39.3325" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB23" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-44.85" y="41.55" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-289.96" y="-133.71" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-43.58" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-43.58" y="40.661" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-43.58" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-43.58" y="43.1375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB24" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-48.66" y="41.55" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="196.45" y="221.89" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-49.93" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-49.93" y="42.439" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-49.93" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-49.93" y="39.9625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB25" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-203.3" y="39.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-448.41" y="-145.77" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-202.03" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-202.03" y="38.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-202.03" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-202.03" y="41.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB26" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-207.11" y="39.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="38" y="230.15" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-208.38" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-208.38" y="40.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-208.38" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-208.38" y="38.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB27" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-213.46" y="39.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-458.57" y="-155.93" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-212.19" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-212.19" y="38.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-212.19" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-212.19" y="41.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB28" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-217.27" y="39.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="27.84" y="240.31" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-218.54" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-218.54" y="40.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-218.54" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-218.54" y="38.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB29" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-222.35" y="39.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-467.46" y="-166.09" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-221.08" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-221.08" y="38.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-221.08" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-221.08" y="41.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB3" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-91.34" y="41.25" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-352.96" y="-192.43" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-90.07" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-90.07" y="40.361" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-90.07" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-90.07" y="42.8375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB30" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-226.16" y="39.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="18.95" y="250.47" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-227.43" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-227.43" y="40.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-227.43" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-227.43" y="38.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB31" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-231.24" y="39.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-476.35" y="-176.25" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-229.97" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-229.97" y="38.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-229.97" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-229.97" y="41.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB32" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-235.05" y="39.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="10.06" y="260.63" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-236.32" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-236.32" y="40.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-236.32" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-236.32" y="38.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB34" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-243.94" y="39.65" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="1.17" y="270.79" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-245.21" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-245.21" y="40.539" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-245.21" y="39.396" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-245.21" y="38.0625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB35" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-55.01" y="41.55" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-300.12" y="-194.67" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-53.74" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-53.74" y="40.661" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-53.74" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-53.74" y="43.1375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB36" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-58.82" y="41.55" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="186.29" y="282.85" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-60.09" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-60.09" y="42.439" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-60.09" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-60.09" y="39.9625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB37" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-65.17" y="41.55" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-310.28" y="-204.83" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-63.9" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-63.9" y="40.661" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-63.9" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-63.9" y="43.1375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB38" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-68.98" y="41.55" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="176.13" y="293.01" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-70.25" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-70.25" y="42.439" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-70.25" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-70.25" y="39.9625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB4" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-95.15" y="41.25" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="166.47" y="280.01" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-96.42" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-96.42" y="42.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-96.42" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-96.42" y="39.6625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB40" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-79.14" y="41.55" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="173.59" y="61.87" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-80.41" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-80.41" y="42.439" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-80.41" y="41.296" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-80.41" y="39.9625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB5" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-102.77" y="41.25" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-364.39" y="-202.59" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-101.5" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-101.5" y="40.361" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-101.5" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-101.5" y="42.8375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB6" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-106.58" y="41.25" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="155.04" y="290.17" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-107.85" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-107.85" y="42.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-107.85" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-107.85" y="39.6625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CB7" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-114.2" y="41.25" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-380.9" y="26.01" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-112.93" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-112.93" y="40.361" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-112.93" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-112.93" y="42.8375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB8" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-118.01" y="41.25" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="148.69" y="61.57" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-119.28" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="NAME" x="-119.28" y="42.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-119.28" y="40.996" size="0.635" layer="33" ratio="10"/>
 <attribute name="VALUE" x="-119.28" y="39.6625" size="0.635" layer="27" ratio="10"/>
 </element>
 <element name="CEN" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-64.6" y="72.89" smashed="yes" rot="R180">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-267.8" y="334.51" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="-64.346" y="71.62" size="0.635" layer="33" ratio="10" rot="R90"/>
 <attribute name="NAME" x="-65.489" y="71.62" size="0.889" layer="25" ratio="11" rot="R90"/>
+<attribute name="NAME" x="-64.346" y="71.62" size="0.635" layer="33" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="-63.0125" y="71.62" size="0.635" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="CIN1" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0805" package3d_urn="urn:adsk.eagle:package:8004286/1" value="10uF" x="-72.2" y="84.55" smashed="yes" rot="R90">
@@ -2018,8 +2014,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CSS" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="47nF" x="-66.15" y="72.91" smashed="yes">
 <attribute name="MPN" value="CC0603KRX7R9BB102" x="142.13" y="-188.71" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-66.404" y="74.18" size="0.635" layer="33" ratio="10" rot="R270"/>
 <attribute name="NAME" x="-67.98" y="70.139" size="0.889" layer="25" ratio="11"/>
+<attribute name="NAME" x="-66.404" y="74.18" size="0.635" layer="33" ratio="10" rot="R270"/>
 <attribute name="VALUE" x="-67.7375" y="74.18" size="0.635" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="CTON" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0402" package3d_urn="urn:adsk.eagle:package:8004285/1" value="100pF" x="-69.27" y="66.94" smashed="yes" rot="R90">
@@ -3544,26 +3540,26 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CB9" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-75.33" y="41.55" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-68.98" y="46.63" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-74.06" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-74.06" y="40.661" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-74.06" y="41.804" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-74.06" y="43.1375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB21" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-134.52" y="41.25" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-128.17" y="46.33" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-133.25" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-133.25" y="40.361" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-133.25" y="41.504" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-133.25" y="42.8375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB33" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-188.06" y="40.92" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-181.71" y="46" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-186.79" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-186.79" y="40.031" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-186.79" y="41.174" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-186.79" y="42.5075" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB39" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-240.13" y="39.65" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-233.78" y="44.73" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-238.86" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-238.86" y="38.761" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-238.86" y="39.904" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-238.86" y="41.2375" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="ESP_HDR_LEFT" library="PPTC191LFBN-RC" package="RHDR19W80P0X254_1X19_4876X254X" value="PPTC191LFBN-RC" x="-136.1" y="61.1" smashed="yes" rot="R180">
