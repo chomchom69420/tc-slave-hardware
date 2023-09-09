@@ -1866,6 +1866,97 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </package>
 </packages>
 </library>
+<library name="RC0402FR-07698KL">
+<packages>
+<package name="RESC1005X40N">
+<text x="-0.95" y="-0.63" size="0.5" layer="27" align="top-left">&gt;VALUE</text>
+<text x="-0.95" y="0.63" size="0.5" layer="25">&gt;NAME</text>
+<wire x1="0.53" y1="-0.28" x2="-0.53" y2="-0.28" width="0.127" layer="51"/>
+<wire x1="0.53" y1="0.28" x2="-0.53" y2="0.28" width="0.127" layer="51"/>
+<wire x1="0.53" y1="-0.28" x2="0.53" y2="0.28" width="0.127" layer="51"/>
+<wire x1="-0.53" y1="-0.28" x2="-0.53" y2="0.28" width="0.127" layer="51"/>
+<wire x1="-0.95" y1="-0.55" x2="0.95" y2="-0.55" width="0.05" layer="39"/>
+<wire x1="-0.95" y1="0.55" x2="0.95" y2="0.55" width="0.05" layer="39"/>
+<wire x1="-0.95" y1="-0.55" x2="-0.95" y2="0.55" width="0.05" layer="39"/>
+<wire x1="0.95" y1="-0.55" x2="0.95" y2="0.55" width="0.05" layer="39"/>
+<smd name="1" x="-0.432" y="0" dx="0.54" dy="0.6" layer="1"/>
+<smd name="2" x="0.432" y="0" dx="0.54" dy="0.6" layer="1"/>
+</package>
+</packages>
+</library>
+<library name="RC0402FR-0782K5L">
+<packages>
+<package name="RC0402N_YAG">
+<smd name="1" x="-0.5588" y="0" dx="0.6604" dy="0.508" layer="1"/>
+<smd name="2" x="0.5588" y="0" dx="0.6604" dy="0.508" layer="1"/>
+<wire x1="0" y1="0.254" x2="3.0734" y2="0.254" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="0.254" x2="3.4544" y2="0.254" width="0.1524" layer="47"/>
+<wire x1="0" y1="-0.254" x2="3.0734" y2="-0.254" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="-0.254" x2="3.4544" y2="-0.254" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="0.254" x2="3.0734" y2="1.524" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="-0.254" x2="3.0734" y2="-1.524" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="0.254" x2="2.9464" y2="0.508" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="0.254" x2="3.2004" y2="0.508" width="0.1524" layer="47"/>
+<wire x1="2.9464" y1="0.508" x2="3.2004" y2="0.508" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="-0.254" x2="2.9464" y2="-0.508" width="0.1524" layer="47"/>
+<wire x1="3.0734" y1="-0.254" x2="3.2004" y2="-0.508" width="0.1524" layer="47"/>
+<wire x1="2.9464" y1="-0.508" x2="3.2004" y2="-0.508" width="0.1524" layer="47"/>
+<wire x1="-0.5334" y1="0" x2="-0.5334" y2="2.794" width="0.1524" layer="47"/>
+<wire x1="-0.5334" y1="2.794" x2="-0.5334" y2="3.175" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="2.794" x2="0.5334" y2="3.175" width="0.1524" layer="47"/>
+<wire x1="-0.5334" y1="2.794" x2="-1.8034" y2="2.794" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="2.794" x2="1.8034" y2="2.794" width="0.1524" layer="47"/>
+<wire x1="-0.5334" y1="2.794" x2="-0.7874" y2="2.921" width="0.1524" layer="47"/>
+<wire x1="-0.5334" y1="2.794" x2="-0.7874" y2="2.667" width="0.1524" layer="47"/>
+<wire x1="-0.7874" y1="2.921" x2="-0.7874" y2="2.667" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="2.794" x2="0.7874" y2="2.921" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="2.794" x2="0.7874" y2="2.667" width="0.1524" layer="47"/>
+<wire x1="0.7874" y1="2.921" x2="0.7874" y2="2.667" width="0.1524" layer="47"/>
+<wire x1="0.2286" y1="0" x2="0.2286" y2="-2.794" width="0.1524" layer="47"/>
+<wire x1="0.2286" y1="-2.794" x2="0.2286" y2="-3.175" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="2.794" x2="0.5334" y2="-2.794" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="-2.794" x2="0.5334" y2="-3.175" width="0.1524" layer="47"/>
+<wire x1="0.2286" y1="-2.794" x2="-1.0414" y2="-2.794" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="-2.794" x2="1.8034" y2="-2.794" width="0.1524" layer="47"/>
+<wire x1="0.2286" y1="-2.794" x2="-0.0254" y2="-2.667" width="0.1524" layer="47"/>
+<wire x1="0.2286" y1="-2.794" x2="-0.0254" y2="-2.921" width="0.1524" layer="47"/>
+<wire x1="-0.0254" y1="-2.667" x2="-0.0254" y2="-2.921" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="-2.794" x2="0.7874" y2="-2.667" width="0.1524" layer="47"/>
+<wire x1="0.5334" y1="-2.794" x2="0.7874" y2="-2.921" width="0.1524" layer="47"/>
+<wire x1="0.7874" y1="-2.667" x2="0.7874" y2="-2.921" width="0.1524" layer="47"/>
+<text x="-15.2146" y="-7.112" size="1.27" layer="47" ratio="6" rot="SR0">Default Padstyle: RX26Y20D0T</text>
+<text x="-18.0848" y="-9.652" size="1.27" layer="47" ratio="6" rot="SR0">Alternate 1 Padstyle: OX60Y90D30P</text>
+<text x="-18.0848" y="-12.192" size="1.27" layer="47" ratio="6" rot="SR0">Alternate 2 Padstyle: OX90Y60D30P</text>
+<text x="3.5814" y="-0.3048" size="0.635" layer="47" ratio="4" rot="SR0">0.02in/0.508mm</text>
+<text x="-4.0386" y="3.302" size="0.635" layer="47" ratio="4" rot="SR0">0.042in/1.067mm</text>
+<text x="-3.6576" y="-3.937" size="0.635" layer="47" ratio="4" rot="SR0">0.012in/0.305mm</text>
+<wire x1="-0.2286" y1="-0.254" x2="-0.2286" y2="0.254" width="0.1524" layer="51"/>
+<wire x1="-0.2286" y1="0.254" x2="-0.5334" y2="0.254" width="0.1524" layer="51"/>
+<wire x1="-0.5334" y1="-0.254" x2="-0.2286" y2="-0.254" width="0.1524" layer="51"/>
+<wire x1="0.2286" y1="0.254" x2="0.2286" y2="-0.254" width="0.1524" layer="51"/>
+<wire x1="0.2286" y1="-0.254" x2="0.5334" y2="-0.254" width="0.1524" layer="51"/>
+<wire x1="0.5334" y1="0.254" x2="0.2286" y2="0.254" width="0.1524" layer="51"/>
+<wire x1="-0.2286" y1="-0.254" x2="0.2286" y2="-0.254" width="0.1524" layer="51"/>
+<wire x1="0.5334" y1="-0.254" x2="0.5334" y2="0.254" width="0.1524" layer="51"/>
+<wire x1="0.2286" y1="0.254" x2="-0.2286" y2="0.254" width="0.1524" layer="51"/>
+<wire x1="-0.5334" y1="0.254" x2="-0.5334" y2="-0.254" width="0.1524" layer="51"/>
+<polygon width="0.0254" layer="41">
+<vertex x="-0.1778" y="0.2032"/>
+<vertex x="0.1778" y="0.2032"/>
+<vertex x="0.1778" y="-0.2032"/>
+<vertex x="-0.1778" y="-0.2032"/>
+</polygon>
+<polygon width="0.0254" layer="41">
+<vertex x="-0.1778" y="0.254"/>
+<vertex x="0.1778" y="0.254"/>
+<vertex x="0.1778" y="-0.254"/>
+<vertex x="-0.1778" y="-0.254"/>
+</polygon>
+<text x="-3.2766" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Name</text>
+<text x="-1.7272" y="-0.635" size="1.27" layer="27" ratio="6" rot="SR0">&gt;Value</text>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2053,8 +2144,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <elements>
 <element name="C2" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100pF" x="-58.19" y="78.86" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-319.81" y="-134.5" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-56.92" y="77.971" size="0.889" layer="25" ratio="11" rot="R180"/>
 <attribute name="NAME" x="-56.92" y="79.114" size="0.635" layer="33" ratio="10" rot="R180"/>
+<attribute name="NAME" x="-56.92" y="77.971" size="0.889" layer="25" ratio="11" rot="R180"/>
 <attribute name="VALUE" x="-56.92" y="80.4475" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="C3" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0805" package3d_urn="urn:adsk.eagle:package:8004286/1" value="10uF" x="-94.78" y="67.2" smashed="yes" rot="R180">
@@ -2069,20 +2160,20 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="C5" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="1uF" x="-93.01" y="75.98" smashed="yes" rot="R270">
 <attribute name="MPN" value="CC0603KRX7R9BB102" x="-359.71" y="45.5" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-95.591" y="76.76" size="0.889" layer="25" ratio="11" rot="R270"/>
 <attribute name="NAME" x="-91.74" y="76.234" size="0.635" layer="33" ratio="10" rot="R180"/>
+<attribute name="NAME" x="-95.591" y="76.76" size="0.889" layer="25" ratio="11" rot="R270"/>
 <attribute name="VALUE" x="-91.74" y="77.5675" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="CB" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-69.46" y="72.71" smashed="yes" rot="R90">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="192.16" y="291.15" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-71.03" y="73.499" size="0.889" layer="25" ratio="11"/>
 <attribute name="NAME" x="-70.73" y="72.456" size="0.635" layer="33" ratio="10"/>
+<attribute name="NAME" x="-71.03" y="73.499" size="0.889" layer="25" ratio="11"/>
 <attribute name="VALUE" x="-71.0825" y="72.11" size="0.635" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="CEN" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-64.6" y="72.89" smashed="yes" rot="R180">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-267.8" y="334.51" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="-65.489" y="71.62" size="0.889" layer="25" ratio="11" rot="R90"/>
 <attribute name="NAME" x="-64.346" y="71.62" size="0.635" layer="33" ratio="10" rot="R90"/>
+<attribute name="NAME" x="-65.489" y="71.62" size="0.889" layer="25" ratio="11" rot="R90"/>
 <attribute name="VALUE" x="-63.0125" y="71.62" size="0.635" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="CIN1" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0805" package3d_urn="urn:adsk.eagle:package:8004286/1" value="10uF" x="-72.2" y="84.55" smashed="yes" rot="R90">
@@ -2112,14 +2203,14 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CSS" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="47nF" x="-66.15" y="72.91" smashed="yes">
 <attribute name="MPN" value="CC0603KRX7R9BB102" x="142.13" y="-188.71" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="-67.98" y="70.139" size="0.889" layer="25" ratio="11"/>
 <attribute name="NAME" x="-66.404" y="74.18" size="0.635" layer="33" ratio="10" rot="R270"/>
+<attribute name="NAME" x="-67.98" y="70.139" size="0.889" layer="25" ratio="11"/>
 <attribute name="VALUE" x="-67.7375" y="74.18" size="0.635" layer="27" ratio="10" rot="R270"/>
 </element>
 <element name="CTON" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0402" package3d_urn="urn:adsk.eagle:package:8004285/1" value="100pF" x="-69.27" y="66.94" smashed="yes" rot="R90">
 <attribute name="MPN" value="CC0402BRNPO9BN1R5" x="177.11" y="140.6" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="NAME" x="-64.86" y="67.425" size="0.889" layer="25" ratio="11" rot="R180"/>
-<attribute name="VALUE" x="-70.667" y="65.416" size="0.635" layer="27" font="vector" ratio="10"/>
+<attribute name="VALUE" x="-70.967" y="67.516" size="0.635" layer="27" font="vector" ratio="10"/>
 </element>
 <element name="CVC" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0402" package3d_urn="urn:adsk.eagle:package:8004285/1" value="4.7uF" x="-67.42" y="72.71" smashed="yes">
 <attribute name="MPN" value="CC0402KRX7R9BB391" x="130.7" y="-188.91" size="1.778" layer="27" display="off"/>
@@ -3337,11 +3428,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="NAME" x="-63.475" y="68.324" size="0.889" layer="25" ratio="11" rot="R180"/>
 <attribute name="VALUE" x="-63.775" y="69.925" size="0.635" layer="27" ratio="10" rot="R270"/>
 </element>
-<element name="RTON" library="OPL_Resistor" library_urn="urn:adsk.eagle:library:8004883" package="R0603" package3d_urn="urn:adsk.eagle:package:8004941/1" value="781.25k" x="-68.7" y="69.36" smashed="yes" rot="R90">
-<attribute name="MPN" value="RC0603FR-071K5L" x="176.41" y="148.1" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="-66.795" y="68.344" size="0.889" layer="25" ratio="11" rot="R180"/>
-<attribute name="VALUE" x="-70.995" y="70.605" size="0.635" layer="27" ratio="10" rot="R270"/>
-</element>
 <element name="TON" library="ML_library" package="1X1" value="CONN_HDR_1POS_0.1" x="-58.73" y="67.64" smashed="yes">
 <attribute name="NAME" x="-60.1762" y="64.8688" size="1.27" layer="25" ratio="10"/>
 </element>
@@ -3502,8 +3588,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN1" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-35.5" y="40" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-30.2" y="44.4" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-34.23" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-33.811" y="42.57" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-34.23" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-34.23" y="41.5875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R172" library="RLC16-R100JTP - 100mOhm" package="RES_RLC16_KYA" value="1m" x="-35.3" y="31" smashed="yes">
@@ -3544,8 +3630,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN2" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-55.5" y="40.2" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-56" y="60.2" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-54.23" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-53.711" y="42.67" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-54.23" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-54.23" y="41.7875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U10" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-76.6" y="35.7" smashed="yes" rot="R90">
@@ -3578,8 +3664,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN3" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-76.7" y="39.8" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-41.4" y="59.8" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-75.43" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-74.911" y="42.27" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-75.43" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-75.43" y="41.3875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U11" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-103.5" y="36.3" smashed="yes" rot="R90">
@@ -3612,8 +3698,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN4" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-103.6" y="40.3" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-109.8" y="68.9" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-102.33" y="40.554" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-101.911" y="42.77" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-102.33" y="40.554" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-102.33" y="41.8875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U12" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-125.2" y="36.4" smashed="yes" rot="R90">
@@ -3646,8 +3732,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN5" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-125.3" y="40.2" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-90" y="107" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-124.03" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-123.511" y="42.77" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-124.03" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-124.03" y="41.7875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U13" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-153.4" y="36.4" smashed="yes" rot="R90">
@@ -3680,8 +3766,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN6" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-153.6" y="40.4" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-154" y="49.1" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-152.33" y="40.654" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-151.811" y="42.87" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-152.33" y="40.654" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-152.33" y="41.9875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U14" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-171.6" y="35.7" smashed="yes" rot="R90">
@@ -3714,8 +3800,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN7" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-171.5" y="39.8" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-213.4" y="57.1" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-170.23" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-169.711" y="42.07" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-170.23" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-170.23" y="41.3875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U15" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-189" y="36" smashed="yes" rot="R90">
@@ -3748,8 +3834,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN8" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-189.1" y="40" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-272.5" y="65.9" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-187.83" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-187.411" y="42.47" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-187.83" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-187.83" y="41.5875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U16" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-214.3" y="35.7" smashed="yes" rot="R90">
@@ -3782,8 +3868,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN9" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-214.2" y="39.8" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-173.2" y="52.8" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-212.93" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-212.93" y="38.911" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-212.93" y="40.054" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-212.93" y="41.3875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U17" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-231.8" y="35.7" smashed="yes" rot="R90">
@@ -3816,8 +3902,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN10" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-231.8" y="39.6" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-238.1" y="110.7" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-230.53" y="39.854" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-230.53" y="38.711" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-230.53" y="39.854" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-230.53" y="41.1875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U18" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-222.5" y="35.7" smashed="yes" rot="R90">
@@ -3850,8 +3936,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN11" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-222.6" y="39.7" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-264.6" y="57" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-221.33" y="39.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-221.33" y="38.811" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-221.33" y="39.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-221.33" y="41.2875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U20" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-240.2" y="35.7" smashed="yes" rot="R90">
@@ -3884,8 +3970,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN12" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-240.2" y="39.7" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-323.7" y="57" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-238.93" y="39.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-238.93" y="38.811" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-238.93" y="39.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-238.93" y="41.2875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U21" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-45.6" y="36.1" smashed="yes" rot="R90">
@@ -3918,8 +4004,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN13" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-45.6" y="40.1" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-10.4" y="106.9" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-44.33" y="40.354" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-43.811" y="43.37" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-44.33" y="40.354" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-44.33" y="41.6875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U22" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-64.9" y="36" smashed="yes" rot="R90">
@@ -3952,8 +4038,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN14" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-65" y="39.9" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-65.5" y="48.6" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-63.73" y="40.154" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-63.211" y="43.17" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-63.73" y="40.154" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-63.73" y="41.4875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U23" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-91.2" y="36.5" smashed="yes" rot="R90">
@@ -3986,8 +4072,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN15" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-91.2" y="40.7" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-133.2" y="58" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-89.93" y="40.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-89.511" y="43.97" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-89.93" y="40.954" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-89.93" y="42.2875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U24" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-114.8" y="36" smashed="yes" rot="R90">
@@ -4020,8 +4106,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN16" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-114.9" y="40" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-198.4" y="65.9" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-113.63" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-113.111" y="43.27" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-113.63" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-113.63" y="41.5875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U25" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-134" y="36" smashed="yes" rot="R90">
@@ -4054,8 +4140,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN17" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-134.1" y="40.2" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-98.9" y="107" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-132.83" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-132.311" y="43.57" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-132.83" y="40.454" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-132.83" y="41.7875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U26" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-162.6" y="36.1" smashed="yes" rot="R90">
@@ -4088,8 +4174,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN18" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-162.8" y="40.1" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-163.3" y="48.8" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-161.53" y="40.354" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-161.111" y="43.27" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-161.53" y="40.354" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-161.53" y="41.6875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U27" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-180.3" y="35.8" smashed="yes" rot="R90">
@@ -4122,8 +4208,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN19" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-180.4" y="40" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-222.4" y="57.3" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-179.13" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-178.711" y="43.17" size="0.889" layer="25" ratio="11" rot="R270"/>
+<attribute name="NAME" x="-179.13" y="40.254" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-179.13" y="41.5875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="U28" library="INA332AIDGKR" package="DGK0008A_N" value="INA332AIDGKR" x="-205.5" y="36.1" smashed="yes" rot="R90">
@@ -4156,8 +4242,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </element>
 <element name="CEN20" library="OPL_Capacitor" library_urn="urn:adsk.eagle:library:8004261" package="C0603" package3d_urn="urn:adsk.eagle:package:8004287/1" value="100nF" x="-205.6" y="39.9" smashed="yes" rot="R270">
 <attribute name="MPN" value="GRM1885C1H102JA01D" x="-289.1" y="65.8" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="-204.33" y="40.154" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="NAME" x="-204.33" y="39.011" size="0.889" layer="25" ratio="11" rot="R180"/>
+<attribute name="NAME" x="-204.33" y="40.154" size="0.635" layer="33" ratio="10" rot="R180"/>
 <attribute name="VALUE" x="-204.33" y="41.4875" size="0.635" layer="27" ratio="10" rot="R180"/>
 </element>
 <element name="R150" library="RLC16-R100JTP - 100mOhm" package="RES_RLC16_KYA" value="1m" x="-45.3" y="30.7" smashed="yes">
@@ -4311,6 +4397,27 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MFR_NAME" value="Kamaya" x="-189.1" y="1183.7" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="-188.9766" y="29.365" size="1.27" layer="27" ratio="6" rot="SR0"/>
 <attribute name="VALUE" x="-190.265" y="28.9728" size="1.27" layer="27" ratio="6" rot="SR90"/>
+</element>
+<element name="R169" library="RC0402FR-07698KL" package="RESC1005X40N" value="RC0402FR-07698KL" x="-71.3" y="65.1" smashed="yes" rot="R90">
+<attribute name="CHECK_PRICES" value="https://www.snapeda.com/parts/RC0402FR-07698KL/Yageo/view-part/?ref=eda" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DESCRIPTION" value=" 698 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film " x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="DIGIKEY_PART_NUMBER" value="YAG3214TR-ND" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MF" value="Yageo" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="MP" value="RC0402FR-07698KL" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="NAME" x="-71.05" y="64.07" size="0.5" layer="25" rot="R180"/>
+<attribute name="PACKAGE" value="1005 Panasonic Electronic Components" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="PURCHASE-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=945679&amp;manufacturer=Yageo&amp;part_name=RC0402FR-07698KL&amp;search_term=None" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+<attribute name="SNAPEDA_LINK" value="https://www.snapeda.com/parts/RC0402FR-07698KL/Yageo/view-part/?ref=snap" x="-71.3" y="65.1" size="1.778" layer="27" rot="R90" display="off"/>
+</element>
+<element name="R170" library="RC0402FR-0782K5L" package="RC0402N_YAG" value="RC0402FR-0782K5L" x="-70.2" y="65.1" smashed="yes" rot="R270">
+<attribute name="COPYRIGHT" value="Copyright (C) 2023 Ultra Librarian. All rights reserved." x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY_PART_NUMBER_1" value="311-82.5KLRCT-ND" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY_PART_NUMBER_2" value="311-82.5KLRDKR-ND" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY_PART_NUMBER_3" value="311-82.5KLRTR-ND" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY_PART_NUMBER_4" value="311-82.5KLRTR-NDL" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="RC0402FR-0782K5L" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MFR_NAME" value="Yageo" x="-70.2" y="65.1" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="-69.8234" y="66.535" size="0.5" layer="27" ratio="6" rot="SR180"/>
 </element>
 </elements>
 <signals>
@@ -5452,12 +5559,12 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="-124.333" y1="25.4" x2="-124.36" y2="25.502" width="0.127" layer="1"/>
 <wire x1="-148.717" y1="78.2678" x2="-148.717" y2="61.214" width="0.127" layer="16"/>
 <wire x1="-148.717" y1="61.214" x2="-148.8" y2="61.1" width="0.127" layer="16"/>
-<wire x1="-68.8075" y1="66.94" x2="-68.8075" y2="65.1555" width="0.5" layer="1"/>
-<wire x1="-68.8075" y1="65.1555" x2="-70.066934375" y2="63.896065625" width="0.5" layer="1"/>
-<wire x1="-75.002065625" y1="63.896065625" x2="-70.066934375" y2="63.896065625" width="0.5" layer="1"/>
+<wire x1="-68.8075" y1="66.94" x2="-68.8075" y2="64.1555" width="0.5" layer="1"/>
+<wire x1="-68.8075" y1="64.1555" x2="-69.966934375" y2="62.996065625" width="0.5" layer="1"/>
+<wire x1="-74.102065625" y1="62.996065625" x2="-69.966934375" y2="62.996065625" width="0.5" layer="1"/>
 <wire x1="-78.246" y1="67.14" x2="-78.105" y2="66.999" width="0.127" layer="1"/>
 <wire x1="-79.505" y1="68.399" x2="-78.105" y2="66.999" width="0.5" layer="1"/>
-<wire x1="-78.105" y1="66.999" x2="-75.002065625" y2="63.896065625" width="0.5" layer="1"/>
+<wire x1="-78.105" y1="66.999" x2="-74.102065625" y2="62.996065625" width="0.5" layer="1"/>
 <wire x1="-121.1" y1="70.7" x2="-126.769" y2="65.031" width="1" layer="1"/>
 <wire x1="-126.769" y1="65.031" x2="-126.769" y2="51.5" width="1" layer="1"/>
 <wire x1="-126.769" y1="51.5" x2="-126.769" y2="51.471" width="0.127" layer="1"/>
@@ -5561,6 +5668,11 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <vertex x="-27.6" y="10"/>
 <vertex x="-249.4" y="10"/>
 </polygon>
+<via x="-241.2" y="90.2" extent="1-16" drill="0.8" diameter="1.3"/>
+<via x="-209.7" y="82.7" extent="1-16" drill="0.8" diameter="1.3"/>
+<via x="-118.4" y="88.2" extent="1-16" drill="0.8" diameter="1.3"/>
+<via x="-131.9" y="71.3" extent="1-16" drill="0.8" diameter="1.3"/>
+<via x="-100.2" y="59.8" extent="1-16" drill="0.8" diameter="1.3"/>
 </signal>
 <signal name="LX">
 <contactref element="L1" pad="P$1"/>
@@ -5614,23 +5726,26 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </signal>
 <signal name="TON">
 <contactref element="CTON" pad="1"/>
-<contactref element="RTON" pad="1"/>
 <contactref element="REG" pad="19"/>
 <contactref element="TON" pad="1"/>
 <wire x1="-69.723" y1="69.088" x2="-69.723" y2="67.056" width="0.127" layer="1"/>
-<wire x1="-69.469" y1="69.342" x2="-69.723" y2="69.088" width="0.127" layer="1"/>
+<wire x1="-69.723" y1="69.088" x2="-69.469" y2="69.342" width="0.127" layer="1"/>
 <wire x1="-69.723" y1="67.056" x2="-69.7325" y2="66.94" width="0.127" layer="1"/>
-<wire x1="-69.469" y1="69.342" x2="-69.462" y2="69.36" width="0.127" layer="1"/>
 <wire x1="-66.294" y1="75.311" x2="-66.294" y2="75.946" width="0.127" layer="1"/>
 <wire x1="-58.674" y1="67.691" x2="-65.278" y2="74.295" width="0.127" layer="16"/>
 <wire x1="-65.278" y1="74.295" x2="-66.294" y2="75.311" width="0.127" layer="16"/>
 <wire x1="-66.294" y1="75.946" x2="-66.4" y2="75.97" width="0.127" layer="1"/>
 <wire x1="-58.674" y1="67.691" x2="-58.73" y2="67.64" width="0.127" layer="16"/>
-<wire x1="-69.342" y1="70.231" x2="-69.342" y2="69.469" width="0.127" layer="1"/>
+<wire x1="-69.342" y1="69.469" x2="-69.342" y2="70.231" width="0.127" layer="1"/>
 <wire x1="-65.278" y1="74.295" x2="-69.342" y2="70.231" width="0.127" layer="16"/>
-<wire x1="-69.342" y1="69.469" x2="-69.462" y2="69.36" width="0.127" layer="1"/>
 <via x="-66.294" y="75.311" extent="1-16" drill="0.3"/>
 <via x="-69.342" y="70.231" extent="1-16" drill="0.3"/>
+<contactref element="R170" pad="1"/>
+<wire x1="-69.469" y1="69.342" x2="-69.342" y2="69.469" width="0.1524" layer="1"/>
+<wire x1="-70.2" y1="65.6588" x2="-70.2" y2="66.2368625" width="0.1524" layer="1"/>
+<wire x1="-70.2" y1="66.2368625" x2="-70.0206" y2="66.4162625" width="0.1524" layer="1"/>
+<wire x1="-70.0206" y1="66.6519" x2="-69.7325" y2="66.94" width="0.1524" layer="1"/>
+<wire x1="-70.0206" y1="66.4162625" x2="-70.0206" y2="66.6519" width="0.1524" layer="1"/>
 </signal>
 <signal name="BST">
 <contactref element="CB" pad="2"/>
@@ -6208,7 +6323,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <contactref element="REG" pad="7"/>
 <contactref element="CIN2" pad="2"/>
 <contactref element="CIN3" pad="2"/>
-<contactref element="RTON" pad="2"/>
 <contactref element="RECT" pad="1"/>
 <contactref element="VIN" pad="1"/>
 <contactref element="Q22" pad="P$3"/>
@@ -6254,8 +6368,8 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="-71.247" y1="86.995" x2="-71.311" y2="87.09" width="0.127" layer="1"/>
 <wire x1="-71.247" y1="87.122" x2="-71.247" y2="89.535" width="1" layer="1"/>
 <wire x1="-71.247" y1="87.122" x2="-71.311" y2="87.09" width="0.127" layer="1"/>
-<wire x1="-66.167" y1="69.342" x2="-67.818" y2="69.342" width="0.127" layer="1"/>
-<wire x1="-67.818" y1="69.342" x2="-67.938" y2="69.36" width="0.127" layer="1"/>
+<wire x1="-66.167" y1="69.342" x2="-67.8" y2="69.342" width="0.127" layer="1"/>
+<wire x1="-67.8" y1="69.342" x2="-67.818" y2="69.342" width="0.127" layer="1"/>
 <wire x1="-66.167" y1="69.342" x2="-66.142" y2="69.34" width="0.127" layer="1"/>
 <wire x1="-64.389" y1="79.629" x2="-63.881" y2="79.121" width="0.6" layer="1"/>
 <wire x1="-63.881" y1="79.121" x2="-63.83" y2="79.04" width="0.127" layer="1"/>
@@ -6270,7 +6384,6 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="-65.0735" y1="78.9145" x2="-67.915" y2="76.073" width="1" layer="16"/>
 <wire x1="-67.945" y1="76.073" x2="-67.915" y2="76.073" width="0.5" layer="16"/>
 <wire x1="-64.516" y1="81.153" x2="-64.516" y2="79.472" width="1" layer="16"/>
-<wire x1="-67.945" y1="69.469" x2="-67.938" y2="69.36" width="0.127" layer="1"/>
 <wire x1="-64.897" y1="86.741" x2="-63.246" y2="86.741" width="1" layer="1"/>
 <wire x1="-67.564" y1="89.408" x2="-64.897" y2="86.741" width="1" layer="1"/>
 <wire x1="-63.246" y1="86.741" x2="-63.1989" y2="86.64" width="0.127" layer="1"/>
@@ -6613,6 +6726,15 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <via x="-51.181" y="40.386" extent="1-16" drill="0.3"/>
 <wire x1="-112.176" y1="18.115" x2="-111.876" y2="18.415" width="0.5" layer="1"/>
 <wire x1="-111.876" y1="18.415" x2="-111.506" y2="18.415" width="0.5" layer="1"/>
+<contactref element="R169" pad="2"/>
+<wire x1="-71.3" y1="65.532" x2="-70.3" y2="66.532" width="0.1524" layer="1"/>
+<wire x1="-70.3" y1="66.532" x2="-70.3" y2="69.1" width="0.1524" layer="1"/>
+<via x="-70.3" y="69.1" extent="1-16" drill="0.35"/>
+<wire x1="-70.3" y1="69.1" x2="-69.931" y2="69.469" width="0.1524" layer="16"/>
+<wire x1="-69.931" y1="69.469" x2="-67.945" y2="69.469" width="0.1524" layer="16"/>
+<via x="-67.945" y="69.469" extent="1-16" drill="0.35"/>
+<wire x1="-67.945" y1="69.469" x2="-67.927" y2="69.469" width="0.1524" layer="1"/>
+<wire x1="-67.927" y1="69.469" x2="-67.8" y2="69.342" width="0.1524" layer="1"/>
 </signal>
 <signal name="N$2">
 <contactref element="R22" pad="2"/>
@@ -11234,6 +11356,12 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <wire x1="-241.3" y1="31.496" x2="-241.3493" y2="31.4" width="0.2" layer="1"/>
 <via x="-239.703" y="32.385" extent="1-16" drill="0.3"/>
 <via x="-241.119" y="32.385" extent="1-16" drill="0.3"/>
+</signal>
+<signal name="N$52">
+<contactref element="R169" pad="1"/>
+<contactref element="R170" pad="2"/>
+<wire x1="-71.3" y1="64.668" x2="-70.3268" y2="64.668" width="0.1524" layer="1"/>
+<wire x1="-70.3268" y1="64.668" x2="-70.2" y2="64.5412" width="0.1524" layer="1"/>
 </signal>
 </signals>
 <mfgpreviewcolors>
